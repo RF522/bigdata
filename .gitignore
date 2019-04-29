@@ -1,0 +1,4 @@
+/src/producer/secrets.py
+/src/consumer/torchMoji/examples/secrets.py
+/src/dashboard/secrets.py
+*.pyc
